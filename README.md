@@ -1,0 +1,2 @@
+# C-Compiler
+Laboratory exercises are conducted utilizing introductory principles of compilation, encompassing fundamental concepts such as lexical analysis, syntax analysis, syntax-directed translation, semantic analysis (including type-checking), run-time environments, intermediate code generation, code generation, and code optimization. Additionally, project assignments involve the utilization of specific tools for designing lexical analyzers and parsers.
